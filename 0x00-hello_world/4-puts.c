@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-
 /**
- * main - prints"Programming is like building a multiilingual 
- * puzzle, followed by newline.
+ * main - prints "Programming is like building a multiilingual 
+ * puzzle,followed by newline.
  * Return: Always 0.
  */
 
